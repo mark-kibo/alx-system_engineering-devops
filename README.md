@@ -1,2 +1,3 @@
 # alx-system_engineering-devops
-my third repo 
+
+This repo explains how we use shell basics to navigate in linux
