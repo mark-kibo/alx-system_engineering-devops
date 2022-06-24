@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/4465686186021284302813911370152460715827_5/205/82575/0x00-shell_basics
+readlink -f 0-current_working_directory
