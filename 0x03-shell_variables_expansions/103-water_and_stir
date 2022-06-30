@@ -1,0 +1,5 @@
+#!/bin/bash
+export WATER= ewwatratewa
+export STIR= tiitirtrtr
+bestchol= $WATER + $STIR
+echo "$bestchol"
